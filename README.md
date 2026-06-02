@@ -1,4 +1,4 @@
-# Customer Segmentation & Insights Dashboard for Techspace
+# Customer Segmentation & Insights Dashboard for TechSpace
 
 This was a project completed for Decision 522Q: Data Visualization as part of the Master of Quantitative Management: Business Analytics program at the Duke University Fuqua School of Business.
 
@@ -10,7 +10,7 @@ Repeat customers generate significantly higher revenue and profit than one-time 
 
 ## About the Data
 
-Tableau extract file of order data for a global retail electronics company.
+The available data was a Tableau extract file of order data for the global retail electronics company.
 
 ## Highlights
 
