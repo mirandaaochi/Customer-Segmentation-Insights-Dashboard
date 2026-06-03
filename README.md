@@ -16,7 +16,7 @@ The available data was a Tableau extract file of order data for the global retai
 
 * In 2025, February saw the highest number of first orders, while April saw the lowest. Numbers remained relatively steady towards the second half of the year.
 * Order volume by customer type differs from first order numbers because customers may place multiple orders throughout the year. Repeat customers, particularly those who placed orders in February, generated the highest order volume for 2025, while one-time customers in April contributed the least.
-* From a demographic perspective, the 55+ age group and pharmacy technicians contribute the largest share of revenue. But when we look at profit, while the 55+ age group continues to lead, the U.S. Marshal occupation generates the most profit. Repeat rates are similar among all age groups, but Silvering Applicator has the highest repeat rate among occupations. From this, we recommend focusing on the 55+ age-group since they are the highest-profit generating group but don’t have the highest repeat rate among the groups.
+* From a demographic perspective, the 55+ age group and pharmacy technicians contribute the largest share of revenue. But when we look at profit, while the 55+ age group continues to lead, the U.S. Marshal occupation generates the most profit. Repeat rates are similar among all age groups, but Silvering Applicator has the highest repeat rate among occupations. **From this, we recommend focusing on the 55+ age-group since they are the highest-profit generating group but don’t have the highest repeat rate among the groups.**
 * Repeat customers generate significantly higher revenue and profit compared to one-time customers.
 
 ## Dashboard
