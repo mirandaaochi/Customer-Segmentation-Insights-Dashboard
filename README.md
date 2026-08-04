@@ -26,7 +26,7 @@ The available data was a Tableau extract file of order data for the global retai
 <p align="center" width="100%">
 <img width="2732" height="1536" alt="3 - Customer Analysis" src="https://github.com/user-attachments/assets/d2126d08-d0f1-4d46-bf76-e38ded48b2cb" />
 
-Also available [here](https://github.com/mirandaaochi/Customer-Segmentation-Insights-Dashboard/blob/main/3%20-%20Customer%20Analysis.png).
+A screenshot of the final dashboard is also available to view [here](https://github.com/mirandaaochi/Customer-Segmentation-Insights-Dashboard/blob/main/3%20-%20Customer%20Analysis.png).
 
 
 
