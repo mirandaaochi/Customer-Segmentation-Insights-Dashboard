@@ -2,6 +2,8 @@
 
 This was a project completed for Decision 522Q: Data Visualization as part of the Master of Quantitative Management: Business Analytics program at the Duke University Fuqua School of Business.
 
+My role included designing the dashboard structure, analyzing customer behavior trends, identifying key performance indicators (KPIs), and developing data-driven recommendations based on customer segmentation and profitability analysis.
+
 Due to privacy constraints, only a screenshot of the final dashboard can be shared.
 
 ## Executive Summary
