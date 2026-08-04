@@ -6,7 +6,7 @@ Due to privacy constraints, only a screenshot of the final dashboard can be shar
 
 ## Executive Summary
 
-Repeat customers generate significantly higher revenue and profit than one-time customers. Customer first order activity peaked early in the year and dropped before stabilizing. Order volume for 2025 is driven by repeat customer orders rather than one-time customers. Older customer segments and high-repeat occupations represent high-value groups and provide clear opportunities for retention-focused strategies.
+Repeat customers generate significantly higher revenue and profit than one-time customers, highlighting the value of retention-focused strategies. Analysis of 2025 purchasing behavior revealed that order volume was primarily driven by repeat customers, with older customer segments and select occupations representing high-value groups. Findings informed recommendations for targeted customer retention strategies.
 
 ## About the Data
 
